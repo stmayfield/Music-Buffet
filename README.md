@@ -22,8 +22,8 @@ When you click on an artist from the "similar artist" list, it will also append 
 
 The following will be submitted for review:
 
-* [Github.io: Deployed Application](https://GFHiebert.github.io/Music-Buffet/)
+* [Github.io: Deployed Application](https://stmayfield.github.io/Music-Buffet/)
 
-* [Github.com: Repository](https://github.com/GFHiebert/Music-Buffet)
+* [Github.com: Repository](https://github.com/stmayfield/Music-Buffet)
 
 - - -

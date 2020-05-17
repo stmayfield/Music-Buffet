@@ -142,7 +142,7 @@ function spotifyPull(artistResult) {
   var authEndpoint = "https://accounts.spotify.com/authorize";
   var clientID = "87da17f3514b4a86854820f3d7804bb0";
   // Set URI to Live Site
-  var redirectURI = "https://gfhiebert.github.io/Music-Buffet/";
+  var redirectURI = "https://stmayfield.github.io/Music-Buffet/";
   var scope = [
     "user-top-read"
   ];
